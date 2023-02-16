@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="megaloFar.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backmove0000" x="0" y="0" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0001" x="0" y="0" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0002" x="465" y="0" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0003" x="465" y="0" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0004" x="930" y="0" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0005" x="930" y="0" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0006" x="1395" y="0" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0007" x="1395" y="0" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0008" x="0" y="233" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0009" x="0" y="233" width="465" height="233" frameX="0" frameY="-63" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0010" x="465" y="233" width="465" height="300" frameX="0" frameY="-32" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0011" x="465" y="233" width="465" height="300" frameX="0" frameY="-32" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0012" x="930" y="233" width="485" height="356" frameX="0" frameY="-2" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0013" x="930" y="233" width="485" height="356" frameX="0" frameY="-2" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0014" x="1415" y="233" width="488" height="361" frameX="0" frameY="0" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0015" x="1415" y="233" width="488" height="361" frameX="0" frameY="0" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0016" x="0" y="594" width="489" height="354" frameX="0" frameY="-4" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0017" x="0" y="594" width="489" height="354" frameX="0" frameY="-4" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0018" x="489" y="594" width="473" height="298" frameX="0" frameY="-31" frameWidth="489" frameHeight="361"/>
+	<SubTexture name="backmove0019" x="489" y="594" width="473" height="298" frameX="0" frameY="-31" frameWidth="489" frameHeight="361"/>
+</TextureAtlas>

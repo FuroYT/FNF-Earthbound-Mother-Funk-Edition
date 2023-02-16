@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ness.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ness_down0000" x="0" y="0" width="788" height="845"/>
+	<SubTexture name="ness_down0001" x="0" y="0" width="788" height="845"/>
+	<SubTexture name="ness_down0002" x="788" y="0" width="788" height="845"/>
+	<SubTexture name="ness_down0003" x="788" y="0" width="788" height="845"/>
+	<SubTexture name="ness_down0004" x="788" y="0" width="788" height="845"/>
+	<SubTexture name="ness_down0005" x="788" y="0" width="788" height="845"/>
+	<SubTexture name="ness_idle0000" x="1576" y="0" width="641" height="722"/>
+	<SubTexture name="ness_idle0001" x="1576" y="0" width="641" height="722"/>
+	<SubTexture name="ness_idle0002" x="2217" y="0" width="641" height="722"/>
+	<SubTexture name="ness_idle0003" x="2217" y="0" width="641" height="722"/>
+	<SubTexture name="ness_idle0004" x="2858" y="0" width="641" height="722"/>
+	<SubTexture name="ness_idle0005" x="2858" y="0" width="641" height="722"/>
+	<SubTexture name="ness_idle0006" x="0" y="845" width="641" height="722"/>
+	<SubTexture name="ness_idle0007" x="0" y="845" width="641" height="722"/>
+	<SubTexture name="ness_idle0008" x="641" y="845" width="641" height="722"/>
+	<SubTexture name="ness_idle0009" x="641" y="845" width="641" height="722"/>
+	<SubTexture name="ness_idle0010" x="641" y="845" width="641" height="722"/>
+	<SubTexture name="ness_idle0011" x="641" y="845" width="641" height="722"/>
+	<SubTexture name="ness_idle0012" x="641" y="845" width="641" height="722"/>
+	<SubTexture name="ness_idle0013" x="641" y="845" width="641" height="722"/>
+	<SubTexture name="ness_left0000" x="1282" y="845" width="741" height="840"/>
+	<SubTexture name="ness_left0001" x="1282" y="845" width="741" height="840"/>
+	<SubTexture name="ness_left0002" x="2023" y="845" width="741" height="840"/>
+	<SubTexture name="ness_left0003" x="2023" y="845" width="741" height="840"/>
+	<SubTexture name="ness_left0004" x="2023" y="845" width="741" height="840"/>
+	<SubTexture name="ness_left0005" x="2023" y="845" width="741" height="840"/>
+	<SubTexture name="ness_right0000" x="2764" y="845" width="753" height="859"/>
+	<SubTexture name="ness_right0001" x="2764" y="845" width="753" height="859"/>
+	<SubTexture name="ness_right0002" x="0" y="1704" width="753" height="859"/>
+	<SubTexture name="ness_right0003" x="0" y="1704" width="753" height="859"/>
+	<SubTexture name="ness_right0004" x="0" y="1704" width="753" height="859"/>
+	<SubTexture name="ness_right0005" x="0" y="1704" width="753" height="859"/>
+	<SubTexture name="ness_up0000" x="753" y="1704" width="750" height="858"/>
+	<SubTexture name="ness_up0001" x="753" y="1704" width="750" height="858"/>
+	<SubTexture name="ness_up0002" x="1503" y="1704" width="750" height="858"/>
+	<SubTexture name="ness_up0003" x="1503" y="1704" width="750" height="858"/>
+	<SubTexture name="ness_up0004" x="1503" y="1704" width="750" height="858"/>
+	<SubTexture name="ness_up0005" x="1503" y="1704" width="750" height="858"/>
+</TextureAtlas>

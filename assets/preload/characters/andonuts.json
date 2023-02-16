@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle00"
+		},
+		{
+			"offsets": [
+				20,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "singDOWN00"
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "singLEFT00"
+		},
+		{
+			"offsets": [
+				-25,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "singRIGHT00"
+		},
+		{
+			"offsets": [
+				44,
+				94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "singUP00"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dr-nuts",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "andonuts",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		120,
+		88
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="story.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story0000" x="0" y="0" width="298" height="140"/>
+	<SubTexture name="story0001" x="0" y="0" width="298" height="140"/>
+	<SubTexture name="story0002" x="0" y="140" width="298" height="140"/>
+	<SubTexture name="story0003" x="0" y="140" width="298" height="140"/>
+	<SubTexture name="story0004" x="0" y="280" width="298" height="140"/>
+	<SubTexture name="story0005" x="0" y="280" width="298" height="140"/>
+</TextureAtlas>
